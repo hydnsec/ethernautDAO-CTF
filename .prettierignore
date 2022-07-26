@@ -1,0 +1,12 @@
+.idea
+.vscode
+
+node_modules
+cache
+artifacts
+coverage.json
+coverage
+typechain-types
+deployments
+
+modules/watchTxs/data
